@@ -29,7 +29,7 @@ class NewPage extends StatelessWidget{
             onPressed: (){
               Fluttertoast.showToast(msg: "Awesome!");
             },
-            child: Text("Click Me"))
+            child: Text("Click Me")),
         ],
       )
 
