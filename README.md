@@ -1,6 +1,5 @@
 # firstapp
 
-A new Flutter project. 
 This repo is intended to update daily classes of the EDGE Program, Batch CBI-018, Instructor: Noor Mohammad Anik Sir
 
 ## Getting Started
